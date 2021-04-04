@@ -1,0 +1,32 @@
+{
+    "id": "56456790",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1617494335895.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "Credit",
+        "caption": "Credit",
+        "totalObservations": 400,
+        "displayedObservations": 400,
+        "variables": 11,
+        "cacheKey": "83B991EF",
+        "object": "Credit",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=Credit&cache_key=83B991EF&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7955997201769193829,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1617494335895,
+    "read_only": false,
+    "read_only_alternatives": []
+}
